@@ -100,6 +100,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
 * Arnaud Bailly, Développeur
+* [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
@@ -175,11 +176,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
-* Julien Manganne, développeur
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
-* [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
+* Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
